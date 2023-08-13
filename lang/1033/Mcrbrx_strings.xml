@@ -1,0 +1,111 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Mcrbrx>Microbrachius</Mcrbrx>
+      <Mcrbrx_stt>Microbrachius</Mcrbrx_stt>
+      <Mcrbrx_lower>The Microbrachius</Mcrbrx_lower>
+      <Mcrbrx_ltt>
+         <color r="255" g="248" b="178">
+            <b>Microbrachius</b>
+         </color>
+         <br/>
+         Cick to select the Microbrachius.
+      </Mcrbrx_ltt>
+</entityname>
+<zoopedia_mcrbrx>
+ <entry>Microbrachius</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Mcrbrx/Mcrbrx_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation status:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coast<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Tetis sea<br/></color> 
+     <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clas: Placoderma <i>(Armored fish)</i><br/>Order: Antiarchidae <i>(Bothriolepoidei)</i><br/>Family: Microbrachiidae <i>(Microbrachius)</i><br/>Genera: <i>Microbrachius</i><br/>Species: <i>M. Dicki</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Facts of Microbrachius</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Microbrachius measure 6 cm.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Live in Devonian.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Need 1/2 stars to adopt the Microbrachius.
+   </color>
+   <p/>This tiny antiarch from the Eday Flags is well described by Susan Hemmings(1978) A tail has never been found and possibly it had no tail since it is usually well preserved in well varved fishbeds where other fish show even the most thin hard to fossilize structures. The antiarch has many small hooks on the inside and at the end of its little arms (pectoral appendages). Maybe they functioned to fasten the fish on water plants when the current was too high. There are good indications that most of the fish in the Eday Subgroup were living in the rivers or tiny lakes. The antiarchs in general are typical bottom dwellers and with their tiny mouths on the ventral side of the head they were probably after everything edible. Maybe the pectoral appendages had a function finding food on the bottom.
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Info from Wikipedia
+  <p/>Maked by Imago
+  </cell>
+ </text>
+</zoopedia_mcrbrx>
+</ZT2Strings>
